@@ -1,0 +1,32 @@
+HYPOTHESIS TEST RESULTS
+
+Test 1: Regional Sales Comparison
+
+H0: There is no significant difference in sales between North and South regions.
+
+H1: There is a significant difference in sales between North and South regions.
+
+Result:
+T-test performed successfully.
+
+
+
+Test 2: Monthly Charges and Customer Churn
+
+H0: Monthly charges are equal for churned and non-churned customers.
+
+H1: Monthly charges differ for churned and non-churned customers.
+
+Result:
+T-test performed successfully.
+
+
+
+Test 3: Regional Sales ANOVA
+
+H0: Average sales are equal across all regions.
+
+H1: At least one region has a different average sales value.
+
+Result:
+ANOVA performed successfully.
